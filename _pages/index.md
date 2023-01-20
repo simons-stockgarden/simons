@@ -5,4 +5,6 @@ id: home
 permalink: /
 ---
 
-# 🌱 [https://simonstock.netlify.app/main](https://simonstock.netlify.app/main) 🌱
+- [[230120]] 상천 기록 - 2023-01-21(금), 001
+
+
