@@ -5,6 +5,7 @@ id: home
 permalink: /
 ---
 
-## simons investment garden 
+## Simons Investment Garden Home 
 
-- [[230120]] 상천 기록 - 2023-01-21(금) - 001
+- [[230120]] 상천 기록 - 2023-01-21(금)
+- [[230119]] 상천 기록 - 2023-01-20(목)
