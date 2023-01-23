@@ -17,10 +17,15 @@ ___
 [[큐렉소]]
 ![](https://i.imgur.com/LJfPtww.png)
 
+![](https://i.imgur.com/sgfayUl.png)
+
+![](https://i.imgur.com/FtTby4t.png)
+
 
 ___
 
 - 2023-01-21 [[230116_특징주 NE능률, 당정협의회 개최, 교육개혁 방향 점검에 강세]]
+
 ![](https://i.imgur.com/B8MBvya.png)
 
 ![](https://i.imgur.com/WSsLC5Q.png)
